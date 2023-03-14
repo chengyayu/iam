@@ -15,7 +15,7 @@ import (
 const commandDesc = `IAM Watcher is a pluggable watcher service used to do some periodic work like cron job. 
 But the difference with cron job is iam-watcher also support sleep some duration after previous job done.
 
-Find more iam-pump information at:
+Find more iam-watcher information at:
     https://github.com/marmotedu/iam/blob/master/docs/guide/en-US/cmd/iam-watcher.md`
 
 // NewApp creates an App object with default parameters.
